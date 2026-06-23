@@ -1,7 +1,5 @@
 # CRM-Invoice-Platform-Analysis
 Power BI dashboard comparing invoice platforms based on features, usability, and business requirements.
-# CRM Invoice Platform Analysis
-
 ## Project Overview
 This project analyzes and compares different invoice platforms to identify the most suitable solution based on business requirements.
 
